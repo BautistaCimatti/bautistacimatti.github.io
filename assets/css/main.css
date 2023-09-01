@@ -228,7 +228,14 @@ input, select, textarea {
 			padding: 1em 1.5em;
 			overflow-x: auto;
 		}
-	
+
+	.imagen{
+		position: relative;
+		overflow: hidden;
+		width: 110px;
+		height: 110px;
+		border-radius: 50%;
+	}
 	.margencito{
 		margin-left: 5px;
 	}
