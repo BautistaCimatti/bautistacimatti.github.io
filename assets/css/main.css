@@ -228,6 +228,9 @@ input, select, textarea {
 			padding: 1em 1.5em;
 			overflow-x: auto;
 		}
+	.margencito{
+		margin-left: 5px;
+	}
 
 	.align-left {
 		text-align: left;
